@@ -6,7 +6,9 @@ import HeroSection from "@/components/hero-section"
 import ProblemStatement from "@/components/problem-statement"
 import DataAnalysis from "@/components/data-analysis"
 import VideoDemo from "@/components/video-demo"
+import TryDemo from "@/components/try-demo"
 import AudioSamples from "@/components/audio-samples"
+import LiveDemo from "@/components/live-demo"
 import Impact from "@/components/impact"
 import Disclaimer from "@/components/disclaimer"
 
@@ -24,8 +26,10 @@ export default function Home() {
         <HeroSection />
         <ProblemStatement />
         <VideoDemo />
+        <TryDemo />
         <DataAnalysis />
         <Disclaimer />
+        <LiveDemo />
         <AudioSamples />
         <Impact />
       </main>

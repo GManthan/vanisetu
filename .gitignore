@@ -35,3 +35,4 @@ next-env.d.ts
 
 # large video files
 public/intro.mp4
+*.crswap
